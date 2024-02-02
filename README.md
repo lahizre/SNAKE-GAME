@@ -31,5 +31,10 @@ Une fois que le programme est compilé, suivez ces étapes :
 - Utilisez les touches fléchées pour déplacer le serpent.
 - Appuyez sur la touche `Échap` pour recommencer le jeu.
 
-![ECRAN DE JEU](Image/Capture d’écran (10).png)
+## Contrôles
+Utilisez les touches fléchées pour déplacer le serpent.
+Appuyez sur la touche Échap pour recommencer le jeu.
+
+![ECRAN DE JEU](Image/trio.png)
+
 
